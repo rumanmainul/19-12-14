@@ -1,0 +1,8 @@
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\bin\Debug\StudentInformationMax3App.exe.config
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\bin\Debug\StudentInformationMax3App.exe
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\bin\Debug\StudentInformationMax3App.pdb
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\obj\Debug\StudentInformationMax3App.StudentInformationUI.resources
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\obj\Debug\StudentInformationMax3App.Properties.Resources.resources
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\obj\Debug\StudentInformationMax3App.csproj.GenerateResource.Cache
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\obj\Debug\StudentInformationMax3App.exe
+E:\project\19-12-14\StudentInformationMax3App\StudentInformationMax3App\obj\Debug\StudentInformationMax3App.pdb

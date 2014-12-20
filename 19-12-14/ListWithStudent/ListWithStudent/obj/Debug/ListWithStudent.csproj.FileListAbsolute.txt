@@ -1,0 +1,6 @@
+E:\13-12-2014\ListWithStudent\ListWithStudent\bin\Debug\ListWithStudent.exe.config
+E:\13-12-2014\ListWithStudent\ListWithStudent\bin\Debug\ListWithStudent.exe
+E:\13-12-2014\ListWithStudent\ListWithStudent\bin\Debug\ListWithStudent.pdb
+E:\13-12-2014\ListWithStudent\ListWithStudent\obj\Debug\ListWithStudent.csprojResolveAssemblyReference.cache
+E:\13-12-2014\ListWithStudent\ListWithStudent\obj\Debug\ListWithStudent.exe
+E:\13-12-2014\ListWithStudent\ListWithStudent\obj\Debug\ListWithStudent.pdb

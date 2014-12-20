@@ -1,0 +1,8 @@
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\bin\Debug\StudentInformationWithStack.exe.config
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\bin\Debug\StudentInformationWithStack.exe
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\bin\Debug\StudentInformationWithStack.pdb
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\obj\Debug\StudentInformationWithStack.Properties.Resources.resources
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\obj\Debug\StudentInformationWithStack.csproj.GenerateResource.Cache
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\obj\Debug\StudentInformationWithStack.exe
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\obj\Debug\StudentInformationWithStack.pdb
+E:\project\19-12-14\StudentInformationWithStack\StudentInformationWithStack\obj\Debug\StudentInformationWithStack.StudentInformationWithStack.resources

@@ -1,0 +1,6 @@
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.exe.config
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.exe
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\bin\Debug\ArrayWithStudent.pdb
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.csprojResolveAssemblyReference.cache
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.exe
+E:\13-12-2014\ArrayWithStudent\ArrayWithStudent\obj\Debug\ArrayWithStudent.pdb
